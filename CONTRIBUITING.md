@@ -1,2 +1,2 @@
 # How to contribuite
-## Add lated
+## Add later
